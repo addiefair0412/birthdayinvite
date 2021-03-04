@@ -49,7 +49,7 @@ html, body, .page {
 }
 
 .fun-check:checked ~ .fun-btn {
-    animation: random-bg .5s linear infinite, grow 1300ms ease infinite;
+    animation: random-bg .5s linear infinite, grow 1600ms ease infinite;
   background-color: #fff !important;
   color: salmon !important;
 }
@@ -73,7 +73,7 @@ h2 {
     top: 30%;
     text-align: center;
     font-family: Fauna One;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 /* pulsating effect on button */
@@ -82,13 +82,13 @@ h2 {
     transform: scale(1);
   }
   14% {
-    transform: scale(1.3);
+    transform: scale(1.22);
   }
   28% {
     transform: scale(1);
   }
   42% {
-    transform: scale(1.3);
+    transform: scale(1.22);
   }
   70% {
     transform: scale(1);
