@@ -17,6 +17,8 @@ html, body, .page {
   height: 100%;
   top: 0;
   left: 0;
+  bottom: 0;
+  right: 0;
   visibility: hidden;
   z-index: -10;
   background-color: salmon;
@@ -69,7 +71,7 @@ h2 {
     position: absolute;
     left: 10%;
     right: 10%;
-    top: 38%;
+    top: 33%;
     text-align: center;
     font-family: Fauna One;
     font-size: 30px;
