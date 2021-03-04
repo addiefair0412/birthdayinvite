@@ -26,7 +26,7 @@ html, body, .page {
   /* change bg color to get different hues    */
   background-color: lightseagreen;
   color: white;
-  padding: 2em 3em;
+  padding: 1em 1.5em;
   border: none;
   transition: all 1s ease;
   border-radius: 5px;
@@ -36,6 +36,7 @@ html, body, .page {
     margin: 13% auto auto auto;
   font-weight: bold;
     opacity: 80%;
+    font-size: 60px;
     font-family: Fascinate;
 }
 
@@ -66,7 +67,7 @@ html, body, .page {
 h2 {
     color: white;
     position: absolute;
-    margin: 25%;
+    margin: 34% 15% 0 15%;
     text-align: center;
     font-family: Fauna One;
     font-size: 20px;
