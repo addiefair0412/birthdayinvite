@@ -61,7 +61,7 @@ html, body, .page {
 
 .fun-check:checked ~ .bg-animate-color {
   visibility: visible;
-  animation: random-bg .5s linear infinite;
+  animation: random-bg 2s linear infinite;
 }
 
 h2 {
